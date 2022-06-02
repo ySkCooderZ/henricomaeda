@@ -1,5 +1,5 @@
 <h1 align="center"> Hi everyone. My name is Henrico Pelozato Maeda and it's an honor to meet you! 😃 </h1>
-<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">
 
 - Currently studying HTML and CSS at [Rocketseat](https://www.rocketseat.com.br/) [Youtube -> Rocketseat](https://www.youtube.com/c/RocketSeat) (Aim to get very good at html and css)
 - Youtubers I admire to start my career: [MarcoBrunoDev](https://www.youtube.com/c/MarcoBrunoDev), [birobirobiro](https://www.youtube.com/channel/UCNv7NsljvfcQ7-vKQlWDsLw)
@@ -45,9 +45,3 @@
 	<a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/-discord-%230077B5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 	<a href="https://medium.com/@felipe-mellao08" target="_blank"><img src="https://img.shields.io/badge/-medium-%230077B5?style=for-the-badge&logo=medium&logoColor=black" target="_blank"></a>
 </div>
-  
-<hr>
-
-<h2 align="center">"Knowledge is something that no one can take from us, it is also the greatest treasure we take from this life." - Lucy Mari Tabuti</h2>
-
-<h3 align="center">You'll Never Walk Alone</h3>
