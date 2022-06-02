@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <p align="center">
 	Hi everyone. My name is <b> Henrico Pelozato Maeda </b> and it's an honor to meet you! 😃
 </p>
@@ -14,29 +15,31 @@
 	</a>
 </div>
 
-<hr></hr>
+<hr />
   
-<h2 align="center"> IDE's </h2>
+<h2 align="center"> IDE's and softwares </h2>
 <div align="center">
 	<img align="center" alt="Git" height="40" width="50" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667"> -
 	<img align="center" alt="Microsoft Visual Studio" height="40" width="50" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"> -
 	<img align="center" alt="Visual Studio Code" height="40" width="50" src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667"> -
-	<img align="center" alt="Notepad++" height="40" width="50" src="https://notepad-plus-plus.org/images/logo.svg"> -
+	<img align="center" alt="Notepad++" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png"> -
 	<img align="center" alt="XAMPP" height="40" width="50" src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg">
 </div>
 
-<hr></hr>
+<hr />
 
 <h2 align="center"> Technologies </h2>
 <div align="center">
-	<img align="center" alt="Git" height="40" width="50" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667"> -
-	<img align="center" alt="Microsoft Visual Studio" height="40" width="50" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"> -
-	<img align="center" alt="Visual Studio Code" height="40" width="50" src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667"> -
-	<img align="center" alt="Notepad++" height="40" width="50" src="https://notepad-plus-plus.org/images/logo.svg"> -
-	<img align="center" alt="XAMPP" height="40" width="50" src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg">
+	<img align="center" height="40" width="50" alt="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> -
+	<img align="center" height="60" width="70" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> -
+	<img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> -
+	<img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> -
+	<img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> -
+	<img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> -
+	<img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
-  
-<hr></hr>
+
+<hr />
   
 <h2 align="center"> Where can you find me? </h2>
 <div align="center">
