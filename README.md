@@ -3,8 +3,8 @@
 - Coding in C Sharp, PHP and JS programming languages, besides HTML, CSS, MySQL, React and React Native.
 - Currently, I'm a junior full stack programmer and I have a lot to learn like you!
 - Profile inspired by [mrdulin](https://github.com/mrdulin) and [giossaurus](https://github.com/giossaurus).
-- Check out [my personal profile](https://www.instagram.com/henrico.maeda/)!
-- Check out [my portfolio](https://www.linkedin.com/in/henricomaeda/)!
+- Check out [my personal profile](https://www.instagram.com/henrico.maeda)!
+- Check out [my portfolio](https://www.linkedin.com/in/henricomaeda)!
 - Contact with me:
 
 <a href="https://api.whatsapp.com/send?phone=5512981521877" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
