@@ -1,4 +1,5 @@
-<h1 align="center"> Olá a todos. </h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <h1 align="center">Me chamo Henrico Maeda e é um prazer em te conhecer! :smiley: </h1>
+<h1 align="center"> Hi everyone. My name is Henrico Pelozato Maeda and it's an honor to meet you! 😃 </h1>
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 - Currently studying HTML and CSS at [Rocketseat](https://www.rocketseat.com.br/) [Youtube -> Rocketseat](https://www.youtube.com/c/RocketSeat) (Aim to get very good at html and css)
 - Youtubers I admire to start my career: [MarcoBrunoDev](https://www.youtube.com/c/MarcoBrunoDev), [birobirobiro](https://www.youtube.com/channel/UCNv7NsljvfcQ7-vKQlWDsLw)
