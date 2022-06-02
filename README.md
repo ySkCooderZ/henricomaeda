@@ -1,21 +1,20 @@
-<h1 align="center"> Hi everyone. My name is Henrico Pelozato Maeda and it's an honor to meet you! 😃 </h1>
-<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">
+<p align="center">
+	Hi everyone. My name is <b> Henrico Pelozato Maeda </b> and it's an honor to meet you! 😃
+</p>
 
-- Currently studying HTML and CSS at [Rocketseat](https://www.rocketseat.com.br/) [Youtube -> Rocketseat](https://www.youtube.com/c/RocketSeat) (Aim to get very good at html and css)
-- Youtubers I admire to start my career: [MarcoBrunoDev](https://www.youtube.com/c/MarcoBrunoDev), [birobirobiro](https://www.youtube.com/channel/UCNv7NsljvfcQ7-vKQlWDsLw)
-- My mentor: [Izabela Toledo](https://www.linkedin.com/in/izabela-toledo/)
-- Creating Front-End projects from the internet to practice and then start creating my own projects
-- Seeking my first front-end job in the job market
-- Check out my portfolio! -> [Welcome](http://felipecastellimellao.epizy.com/?i=1)
-- New portfolio under construction -> [Welcome](https://new-portfolio-umber-theta.vercel.app/)
+- Coding in C Sharp, PHP and JS programming languages, besides HTML, CSS, MySQL, React and React Native.
+- Currently, I'm a junior full stack programmer and I have a lot to learn like you!
+- Check out [my personal profile](https://www.instagram.com/henrico.maeda/)!
+- Check out [my portfolio](https://www.linkedin.com/in/henricomaeda/).
 
 <div>
 	<a href="https://github.com/henricomaeda">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henricomaeda&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricomaeda&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+		<img height="160em" src="https://github-readme-stats.vercel.app/api?username=henricomaeda&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+		<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricomaeda&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+	</a>
 </div>
 
-<hr>
+<hr></hr>
   
 <h2 align="center"> Technologies I study/use currently </h2>
 <div align="center">
