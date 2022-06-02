@@ -1,6 +1,4 @@
-<p align="center">
-	Hi everyone. My name is <b> Henrico Pelozato Maeda </b> and it's an honor to meet you! 😃
-</p>
+![MasterHead](https://github.com/henricomaeda/henricomaeda/welcome_logo.png)
 
 - Coding in C Sharp, PHP and JS programming languages, besides HTML, CSS, MySQL, React and React Native.
 - Currently, I'm a junior full stack programmer and I have a lot to learn like you!
