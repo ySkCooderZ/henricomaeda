@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <p align="center">
 	Hi everyone. My name is <b> Henrico Pelozato Maeda </b> and it's an honor to meet you! 😃
 </p>
@@ -10,13 +9,17 @@
 
 <div>
 	<a href="https://github.com/henricomaeda">
-		<img height="180" src="https://github-readme-stats.vercel.app/api?username=henricomaeda&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-		<img height="183" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricomaeda&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+		<img height="180" src="https://github-readme-stats.vercel.app/api?username=henricomaeda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+		<img height="183" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricomaeda&layout=compact&langs_count=7&theme=dracula"/>
 	</a>
 </div>
 
 <hr />
-  
+
+![Snake animation](https://github.com/henricomaeda/henricomaeda/blob/output/github-contribution-grid-snake.svg)
+
+<hr />
+
 <h2 align="center"> IDE's and softwares </h2>
 <div align="center">
 	<img align="center" alt="Git" height="40" width="50" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667"> -
