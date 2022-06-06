@@ -1,4 +1,4 @@
-![WELCOME](https://github.com/henricomaeda/henricomaeda/blob/main/welcome.png)
+![WELCOME](https://github.com/henricomaeda/henricomaeda/blob/main/welcome.jpg)
 
 - Coding in C Sharp, PHP and JS programming languages, besides HTML, CSS, MySQL, React and React Native.
 - Currently, I'm a junior full stack developer and I have a lot to learn like you!
