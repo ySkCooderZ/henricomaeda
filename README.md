@@ -3,8 +3,8 @@
 - Coding in C Sharp, PHP and JS programming languages, besides HTML, CSS, MySQL, React and React Native.
 - Currently, I'm a junior full stack developer and I have a lot to learn like you!
 - Profile inspired by [mrdulin](https://github.com/mrdulin) and [giossaurus](https://github.com/giossaurus).
+- Check out [my freelancer profile](https://www.workana.com/freelancer/d220829aa93b02250bf78581d2e7496b)!
 - Check out [my personal profile](https://www.instagram.com/henrico.maeda)!
-- Check out [freelancer profile](https://www.workana.com/freelancer/d220829aa93b02250bf78581d2e7496b)!
 - Check out [my portfolio](https://www.linkedin.com/in/henricomaeda)!
 - Contact with me:
 
