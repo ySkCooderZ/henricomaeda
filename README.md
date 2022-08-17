@@ -13,4 +13,4 @@
 
 ![Snake animation](https://github.com/henricomaeda/henricomaeda/blob/output/github-contribution-grid-snake.svg)
 
-<hr />
+<hr /> 
